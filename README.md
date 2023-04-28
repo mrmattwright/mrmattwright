@@ -2,15 +2,17 @@
 
 ## 👀 Introduction
 
-What even is this? Well..you know you get those emails from people you don't know and you have to go and look them up on LinkedIn or something to figure out who they are? Well this is my attempt to make that easier for you.
+What even is this? It's an attempt for people to understand what it's like to work with me and
 
-## 🧠 Peronality profile and insights
+If you think there should be something added or amended here, please feel free to make a [PR](https://github.com/mrmattwright/mrmattwright/pulls). I'm not precious about this. If I'm acting incosistently with what I've written here, please [raise an issue](https://github.com/mrmattwright/mrmattwright/issues) or talk to me.
+
+## 🧠 Personality profile and insights
 
 TODO: Add DISC or OCEAN.
 
 ## ⚡️ Fun fact
 
-TODO: That time I helped cause the GFC or the other time I went on holiday, got invovled in nationwide riot, chartered a plane, was in a 7.9 earthquake and nearly died at sea after my girlfriend at the time caught a flesh eating virus. **All on the same trip**
+TODO: That time I helped cause the GFC or the other time I went on holiday, got involved in nationwide riot, chartered a plane, was in a 7.9 earthquake and nearly died at sea after my girlfriend at the time caught a flesh eating virus. **All on the same trip**
 
 ## 🗣️ Communication Preferences
 
@@ -23,14 +25,14 @@ We're all a bit terrible at feedback, so firstly have a listen to this if you wa
 
 ## 👨‍💻 Conditions I like to work in
 
-I think I'm a bit Bipoloar here. If I'm coding or working on a thinking problem - i absolutely love being at home, headphones on and being very uninterrupted. If I'm doing something more creative or collaborative, I love being in a room with other people. I like solving problems on a whiteboard and discussing them.
+I think I'm a bit Bipolar here. If I'm coding or working on a thinking problem - i absolutely love being at home, headphones on and being very uninterrupted. If I'm doing something more creative or collaborative, I love being in a room with other people. I like solving problems on a whiteboard and discussing them.
 
 ## 🫂 Things I struggle with
 
-Let's just get this in straight away - I can be terrifically unorganised at times. But here are some other delightful shortcomings:
+Let's just get this in straight away - I can be terrifically disorganised at times. But here are some other delightful shortcomings:
 
 - I am not super detailed. We might have discussed something, you can probably assume I have forgotten the details. I am happy to be reminded - If you see me writing something down - this is a good sign, that normally means I'll keep track of it.
-- I'm not that good at following a process - and yet I understand the value of those processes. Sprints, Standups, Estimation, retros etc....totally important. I wish I was more able to be discipliend in sticking to them.
+- I'm not that good at following a process - and yet I understand the value of those processes. Sprints, Standups, Estimation, retros etc....totally important. I wish I was more able to be disciplined in sticking to them.
 - If i'm interested in a thing, I will prioritize that thing above other things. The thing I am interested in my not be in any way as important as the other things. I'm not super proud of this one.
 
 ## 🤔 Frameworks I use for decision making
@@ -45,16 +47,16 @@ One other book that had a huge effect on me when I first started running teams i
 
 ## ⚙️ How I build things
 
-So if you ask me how to build a thing..specfically talking about engineering here, my default position is:
+So if you ask me how to build a thing..specifically talking about engineering here, my default position is:
 
-1. Choose **ONE** langague (probably a common one like Python, Ruby, Javascript or maybe even Elixir now). Something with a good web framework and a good testing framework in any case.
+1. Choose **ONE** language (probably a common one like Python, Ruby, Javascript or maybe even Elixir now). Something with a good web framework and a good testing framework in any case.
 2. Choose **ONE** database (probably Postgres)
 3. Build a monolith
 4. Choose some metrics you want to measure to see if the thing you built is working
 5. Deploy it to Fly.io
-6. Give it to pepole to test
+6. Give it to people to test
 
-You can probalby do that in a day or two. Then you can adjust based on real user feedback. I actually do this too. Example [Chat for NZ Legislation](https://opio-chat.fly.dev/).
+You can probably do that in a day or two. Then you can adjust based on real user feedback. I actually do this too. Example [Chat for NZ Legislation](https://opio-chat.fly.dev/).
 
 ## 🫶 Things I love
 
