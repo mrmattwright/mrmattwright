@@ -2,17 +2,18 @@
 
 ## 👀 Introduction
 
-What even is this? It's an attempt for people to understand what it's like to work with me and
+What even is this? It's an attempt for people to understand what it's like to work with me, what i'm like as a person, what my shortcomings are and how to get the best out of me.
 
 If you think there should be something added or amended here, please feel free to make a [PR](https://github.com/mrmattwright/mrmattwright/pulls). I'm not precious about this. If I'm acting incosistently with what I've written here, please [raise an issue](https://github.com/mrmattwright/mrmattwright/issues) or talk to me.
 
 ## 🧠 Personality profile and insights
 
-TODO: Add DISC or OCEAN.
+To some degree these sorts of frameworks can help at least give people and idea of what motivates people. One of my friends is an occupational psychologist and swears that OCEAN is the only one that has some sort of empirical evidence. Anyway, here's a couple of links to my results using various frameworks:
 
-## ⚡️ Fun fact
-
-TODO: That time I helped cause the GFC or the other time I went on holiday, got involved in nationwide riot, chartered a plane, was in a 7.9 earthquake and nearly died at sea after my girlfriend at the time caught a flesh eating virus. **All on the same trip**
+Myers Briggs: [ENFJ](https://www.16personalities.com/enfj-personality)  
+OCEAN: TODO  
+DISC: TODO  
+Principles You: [Adventurer](https://principlesyou.com/share/S_tYaKnbTXv0GDY)
 
 ## 🗣️ Communication Preferences
 
@@ -41,15 +42,17 @@ So firstly I like simple things.
 
 In fact I am a HUGE fan of [Choosing Boring Technology](https://boringtechnology.club/). I wish I had followed this advice much earlier in my career. Maybe our Startup would not have 💥. But I digress.
 
-In terms of running teams, I try and figure out what 2 or 3 things will move the needle based on what the business/context/size etc. As a starting point I'll look to use something from [Accelerate](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339) which I highly recommend as a book. [TLDR version](https://tdevroome.medium.com/book-summary-accelerate-c531efe4c34c).
+In terms of running teams, I try and figure out what 2 or 3 things will move the needle based on where the business is up to/current working context/size of team etc. As a starting point I'll look to use something from [Accelerate](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339) which I highly recommend as a book. [TLDR version](https://tdevroome.medium.com/book-summary-accelerate-c531efe4c34c).
 
 One other book that had a huge effect on me when I first started running teams is an old (we're talking 1970s here) classic. [Peopleware](https://www.amazon.com/Peopleware-Productive-Projects-Tom-DeMarco/dp/0932633439).
+
+I have a long list of books, come chat to me if you want to know more.
 
 ## ⚙️ How I build things
 
 So if you ask me how to build a thing..specifically talking about engineering here, my default position is:
 
-1. Choose **ONE** language (probably a common one like Python, Ruby, Javascript or maybe even Elixir now). Something with a good web framework and a good testing framework in any case.
+1. Choose **ONE** language (probably a common one like Python, Ruby, Javascript or maybe even Elixir now)**. Something with a good web framework and a good testing framework in any case.
 2. Choose **ONE** database (probably Postgres)
 3. Build a monolith
 4. Choose some metrics you want to measure to see if the thing you built is working
@@ -58,8 +61,20 @@ So if you ask me how to build a thing..specifically talking about engineering he
 
 You can probably do that in a day or two. Then you can adjust based on real user feedback. I actually do this too. Example [Chat for NZ Legislation](https://opio-chat.fly.dev/).
 
+I should add that I'm a huge fan of [The Twelve Factor App](https://12factor.net/) style of building apps.
+
+**Not everything is a web app and if speed/performance and scalability are important considerations then I would pair one of the above languages with something like Rust or Go.
+
+Also sometimes having skills in a thing is more important than using the latest thing. Once we used Puppet to build servers because we had a Puppet expert. I'm not sure I would do that now, but it was the right decision at the time.
+
 ## 🫶 Things I love
 
 I really love listening to Podcasts (often while doing something else - like washing up or cleaning or ironing or something).
 
 I have a cute family and I love them. Sarah and I have 2 girls; Rose (6) and Maisy (3 1/2).
+
+Climbing, mountains, trail running, camping, skiing and hiking.
+
+## ⚡️ Fun fact
+
+TODO: That time I helped cause the GFC or the other time I went on holiday, got involved in nationwide riot, chartered a plane, was in a 7.9 earthquake and nearly died at sea after my girlfriend at the time caught a flesh eating virus. **All on the same trip**
